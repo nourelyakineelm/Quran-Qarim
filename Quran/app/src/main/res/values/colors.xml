@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#033C09</color>
+    <color name="colorPrimaryTransperant">#7AE886</color>
+    <color name="colorPrimaryDark">#15ED2C</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <color name="pressed_color">#4d90fe</color>
+    <color name="default_color">#ffffff</color>
+    <color name="applicationSecand">#303030</color>
+    <color name="smallTextColor">#066510</color>
+    <color name="headerhighlightHomeActivity">#033C09</color>
+    <color name="headerHomeActivity">#279F34</color>
+    <color name="itemhighlightHomeActivity">#011003</color>
+    <color name="itemHomeActivity">#303030</color>
+</resources>
